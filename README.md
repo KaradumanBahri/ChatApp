@@ -52,3 +52,11 @@ In this module, we learned how to integrate Firebase into a Flutter application 
 | path                | ^1.8.3  |
 | sqflite             | ^2.3.0  |
 
+![Ekran görüntüsü 2023-11-28 144701](https://github.com/KaradumanBahri/ChatApp/assets/46449677/e9fad670-ab99-4701-a0a2-c10316d2a936)
+![Ekran görüntüsü 2023-11-28 144820](https://github.com/KaradumanBahri/ChatApp/assets/46449677/558c8b26-deb6-4355-a803-69491b8c82eb)
+
+![Ekran görüntüsü 2023-11-28 144723](https://github.com/KaradumanBahri/ChatApp/assets/46449677/1c62765c-609a-4d4f-84bf-6e0cc0965162)
+![Ekran görüntüsü 2023-11-27 222726](https://github.com/KaradumanBahri/ChatApp/assets/46449677/f347f1b7-e571-4590-a74c-9c6f8f3a6924)
+
+
+
