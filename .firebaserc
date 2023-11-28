@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "flutter-chat-app-8c98b",
+    "staging": "flutter-chat-app-8c98b"
+  },
+  "targets": {},
+  "etags": {}
+}
